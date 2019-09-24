@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 280 247.8" style="enable-background:new 0 0 280 247.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EDEDEE;}
+	.st1{fill:#D9D2D0;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:0.5;}
+	.st3{fill:#7C51A1;}
+	.st4{fill:#7EB162;}
+	.st5{fill:none;stroke:#A29490;}
+	.st6{opacity:0.5;fill:#FFFFFF;}
+	.st7{font-family:'MyriadPro-Semibold';}
+	.st8{font-size:8.6126px;}
+	.st9{font-family:'MyriadPro-Regular';}
+</style>
+<g>
+	<g>
+		<rect class="st0" width="279.9" height="247.8"/>
+		<rect x="43.1" y="12.2" class="st1" width="226.7" height="180.9"/>
+		<g>
+			<line class="st2" x1="43.4" y1="125.5" x2="269.8" y2="125.5"/>
+			<line class="st2" x1="43.4" y1="159.9" x2="269.8" y2="159.9"/>
+			<line class="st2" x1="43.4" y1="56.8" x2="269.8" y2="56.8"/>
+			<line class="st2" x1="43.4" y1="91.2" x2="269.8" y2="91.2"/>
+			<line class="st2" x1="43.4" y1="22.4" x2="269.8" y2="22.4"/>
+			<line class="st2" x1="43.1" y1="83.3" x2="43.1" y2="193.1"/>
+		</g>
+		<g>
+			<g>
+				<rect x="47.7" y="131.7" class="st3" width="14.9" height="61.4"/>
+			</g>
+			<g>
+				<rect x="62.8" y="159.9" class="st4" width="14.9" height="33.2"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="94.9" y="131.7" class="st3" width="14.9" height="61.4"/>
+			</g>
+			<g>
+				<rect x="109.7" y="22.4" class="st4" width="14.9" height="170.7"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="141.8" y="131.7" class="st3" width="14.9" height="61.4"/>
+			</g>
+			<g>
+				<rect x="156.7" y="28.3" class="st4" width="14.9" height="164.8"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="188.7" y="131.7" class="st3" width="14.9" height="61.4"/>
+			</g>
+			<g>
+				<rect x="203.3" y="135.3" class="st4" width="14.9" height="57.8"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="235.3" y="131.7" class="st3" width="14.9" height="61.4"/>
+			</g>
+			<g>
+				<rect x="250" y="141.7" class="st4" width="14.9" height="51.4"/>
+			</g>
+		</g>
+		<polyline class="st5" points="269.8,193.2 43.1,193.2 43.1,12.2 		"/>
+		<rect x="179" y="15.1" class="st6" width="85.4" height="29.1"/>
+		<rect x="184.4" y="20.5" class="st3" width="5.4" height="5.4"/>
+		<rect x="184.4" y="32.9" class="st4" width="5.4" height="5.4"/>
+		<text transform="matrix(1 0 0 1 120.2852 244.1455)" class="st7 st8">Added components</text>
+		<text transform="matrix(0 -1 1 0 16.963 160.3501)" class="st7 st8">Relative level of albumin mRNA</text>
+		<text transform="matrix(1 0 0 1 25.1651 60.2515)" class="st9 st8">0.80</text>
+		<text transform="matrix(1 0 0 1 25.1651 24.3662)" class="st9 st8">1.00</text>
+		<text transform="matrix(1 0 0 1 25.1641 94.5366)" class="st9 st8">0.60</text>
+		<text transform="matrix(1 0 0 1 25.1651 128.8203)" class="st9 st8">0.40</text>
+		<text transform="matrix(1 0 0 1 25.1651 163.1035)" class="st9 st8">0.20</text>
+		<g>
+			<text transform="matrix(1 0 0 1 240.1495 202.1582)"><tspan x="0" y="0" class="st9 st8">HSPG</tspan><tspan x="0" y="9.7" class="st9 st8">alone</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 189.7061 202.1582)"><tspan x="0" y="0" class="st9 st8">Type IV</tspan><tspan x="-2.2" y="9.7" class="st9 st8">collagen</tspan><tspan x="3.1" y="19.4" class="st9 st8">alone</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 142.4405 202.1582)"><tspan x="0" y="0" class="st9 st8">Laminin</tspan><tspan x="4.5" y="9.7" class="st9 st8">alone</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 94.9415 202.1582)"><tspan x="0" y="0" class="st9 st8">Laminin,</tspan><tspan x="3" y="9.7" class="st9 st8">type IV</tspan><tspan x="-0.9" y="19.4" class="st9 st8">collagen,</tspan><tspan x="-2.4" y="29.1" class="st9 st8">and HSPG</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 43.9522 202.1582)"><tspan x="0" y="0" class="st9 st8">No matrix</tspan><tspan x="2.7" y="9.7" class="st9 st8">proteins</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 195.9171 26.0059)" class="st9 st8">72 h after plating</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 195.9171 38.3862)" class="st9 st8">120 h after plating</text>
+		</g>
+	</g>
+</g>
+</svg>

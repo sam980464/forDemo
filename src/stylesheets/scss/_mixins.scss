@@ -1,0 +1,40 @@
+// Utilities
+@import "mixins/breakpoints";
+@import "mixins/visibility";
+@import "mixins/grid-framework";
+@import "mixins/grid";
+@mixin box-shadow($shadow...) {
+  @if $enable-shadows {
+    box-shadow: $shadow;
+  }
+}
+
+@mixin transition($transition...) {
+  @if $enable-transitions {
+    @if length($transition) == 0 {
+      transition: $transition-base;
+    } @else {
+      transition: $transition;
+    }
+  }
+}
+
+@mixin position($value) {
+  position: $value;
+}
+
+
+
+@mixin button-variant($button-color, $button-bg, $button-border) {
+  background-color:  $button-bg; 
+  border:1px solid  $button-border;
+  color: $button-color;
+}
+@mixin list-unstyled {
+  padding-left: 0;
+  list-style: none;
+}
+
+.position-relative{ position: relative;}
+.position-absolute{ position: absolute;}
+.position-fixed{ position: fixed;}

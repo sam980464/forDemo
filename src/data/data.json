@@ -1,0 +1,1423 @@
+﻿{
+  "primerInfo": {
+    "primerName": "Quantitative Reasoning: Working with Numbers",
+    "sessionName": "Practice Study Session 5: Length and Timescales",
+    "analyticsName": "hlw-quantitativereasoning5",
+    "externalImagePath": {
+      "dev": "https://s3.amazonaws.com/ml-savi/dev/primers/hlw-quantitativereasoning/5/",
+      "production": "https://savi-cdn.macmillantech.com/hlw-quantitativereasoning/5/"
+    }
+  },
+  "questionSet": [
+    {
+      "showValidateButtons": false,
+      "templateHeading": [
+        "Length and Timescales"
+      ],
+      "templateType": "Introduction",
+      "leftFrame": {
+        "imageDetails": [
+          {
+            "alt": "Three images showing ostrich of egg and microscopic view of skin cell, nerve cell. For Image description click on Image Description Link.",
+            "imageDescription": "<p>The first microscopic view (a) shows a grid of skin cells each with a diameter of 0.1 millimeter and the second microscopic view (b) shows a network of nerve cells each with a length of 1 millimeter. The skin cells have a rounded shape and the nerve cells appear as thin elongated strips. The photo (c) shows a pair of hands holding an ostrich egg. Text in caption reads: Cells vary greatly in size and shape (a) skill cells; (b) nerve cells (c) ostrich.</p>",
+            "path": "Slide_4.svg",
+            "visible": true
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "HtmlDataBlock": "<p>Biology explores objects as tiny as atoms and molecules and as large as Earth. This figure from the first chapter of your textbook features cells that are very different sizes.</p><p>In this study session, you explore the scales of length and time used to study biological objects and processes.</p>"
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": false,
+      "templateHeading": [
+        "Length and Timescales Basics"
+      ],
+      "sampleTemplate": "sampleData",
+      "templateType": "SampleScreen",
+      "mainFrame": {
+        "text": "",
+        "listingData": [
+          "The study of biology involves immense length and timescales. Biologists study objects that are tiny, such as atoms, and huge, such as Earth.",
+          "In order to understand the scale of biological objects, it’s important to develop a sense of orders of magnitude.",
+          "Scientific notation and the prefixes in the metric system, such as \"milli\" and \"kilo,\" make it easier to compare numbers."
+        ]
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Length and Timescales Practice",
+        "The figure shown here is a length scale showing objects commonly studied in biology. Which of the statements about size and scale in biology is true?"
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image of a line scale. For Image description click on Image Description Link.",
+            "imageDescription": "<p>A line scale showing measurements ranging from 10<sup>-10</sup> to 10<sup>14</sup>.</p> <p>A meter and the average human height are indicated in the middle of the scale at 10<sup>0</sup>.</p> <p>Other units of measure on the scale are an angstrom at 10<sup>-10</sup>, a nanometer at 10<sup>-9</sup>, a micron at 10<sup>-6</sup>, a milimeter at 10<sup>-3</sup>, a centimeter at 10<sup>-2</sup>, a meter at 10<sup>0</sup>, and a kilometer at 10<sup>3</sup>.</p> <p>Other measurements show are as follows:<ul><li> atomic radius at 10<sup>-10</sup></li><li> size of an amino acid at 10<sup>-9</sup></li><li> size of a protein a little more than 10<sup>-9</sup></li><li> ribosome at 10<sup>-7</sup></li><li> bacterial cell at 10<sup>-6</sup></li><li> eukaryotic cell at 10<sup>-4</sup></li><li> humans at 10<sup>0</sup></li><li> largest dinosaur at 10<sup>2</sup></li><li> the tallest tree at a little larger than 10<sup>2</sup></li><li> the longest coral reef at 10<sup>6</sup></li><li> the earth's radius at 10<sup>7</sup></li><li style=\"padding-bottom:0\"> and the solar system at 10<sup>13</sup></li></ul></p>",
+            "path": "Slide_6.svg",
+            "visible": true
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "headers": [
+          "Select the correct option and then select Check Answer."
+        ],
+        "templateType": "SingleSelectOptions",
+        "successMsg": "Scientific notation and the prefixes in the metric system, such as \"milli\" and \"kilo\", make it easier to compare numbers.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "Biologists study objects that are tiny, such as atoms, and huge, such as Earth. What types of notations and conventions allow them to easily compare these numbers to each other?",
+        "finalFeedback": "Scientific notation and the prefixes in the metric system, such as \"milli\" and \"kilo\", make it easier to compare numbers.",
+        "correctAttempts": 2,
+        "questionData": {
+          "question": [],
+          "questionOptions": [
+            "In scientific notation, prefixes (such as \"milli\" and \"kilo\") designate the size of a number.",
+            "Orders of magnitude are not important in helping us understand the range of scale and time  in biology.",
+            "It is easier to compare scale when numbers are in scientific notation and are expressed in metric units."
+          ],
+          "questionAnswers": [
+            "It is easier to compare scale when numbers are in scientific notation and are expressed in metric units."
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Length",
+        "In this figure from the genomes chapter of your textbook, you can see how the DNA in chromosomes is packaged to form structures that range in size from 2 nanometers (nm) to 1400 nm. One nanometer equals 10<sup>-9</sup> meters or one billionth of a meter. How many meters is 2 nanometers?"
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image showing levels of chromosome condensation. For Image description click on Image Description Link.",
+            "imageDescription": "<p>The levels of chromosome condensation are listed from smallest to largest: The first level is the DNA duplex, which is 2 nanometers in diameter.</p> <p>This DNA duplex is wound around histone proteins forming a nucleosome fiber that is approximately 10 nanometers in diameter.</p> <p>Multiple nucleosome fibers are then condensed to form a chromatin fiber that is 30 nanometers in diameter.</p> <p>These chromatin fibers are then further condensed to form a coiled chromatin fiber that is 300 nanometers in diameter.</p> <p>The next level of condensation is the coiled coils which are 700 nanometers in diameter.</p> <p>The coiled coils are further condensed to form the condensed chromatid, 1400 nanometers in diameter.</p>",
+            "path": "Slide_7.svg",
+            "visible": true,
+            "popupFlag": 1
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "headers": [
+          "Select the correct option and then select Check Answer."
+        ],
+        "templateType": "SingleSelectOptions",
+        "successMsg": "A nanometer is equal to 1 &times; 10<sup>-9</sup> meters or one billionth of a meter. So 2 nanometers is 2 &times; 10<sup>-9</sup> meters.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "How many nanometers are there in one meter? ",
+        "finalFeedback": "A nanometer is equal to 1 &times; 10<sup>-9</sup> meters or one billionth of a meter. So 2 nanometers is 2 &times; 10<sup>-9</sup> meters. ",
+        "correctAttempts": 2,
+        "questionData": {
+          "question": [],
+          "questionOptions": [
+            "2 &times; 10<sup>-9</sup> m",
+            "2 &times; 10<sup>2</sup> m",
+            "2 &times; 10<sup>9</sup> m"
+          ],
+          "questionAnswers": [
+            "2 &times; 10<sup>-9</sup> m"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Length",
+        "The chromosome structures in the illustration range from 2 nm to 1400 nm thick. Where does an object 2 nm in length belong on this length scale?"
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image showing levels of chromosome condensation. For Image description click on Image Description Link.",
+            "imageDescription": "<p>The levels of chromosome condensation are listed from smallest to largest: The first level is the DNA duplex, which is 2 nanometers in diameter.</p> <p>This DNA duplex is wound around histone proteins forming a nucleosome fiber that is approximately 10 nanometers in diameter.</p> <p>Multiple nucleosome fibers are then condensed to form a chromatin fiber that is 30 nanometers in diameter.</p> <p>These chromatin fibers are then further condensed to form a coiled chromatin fiber that is 300 nanometers in diameter.</p> <p>The next level of condensation is the coiled coils which are 700 nanometers in diameter.</p> <p>The coiled coils are further condensed to form the condensed chromatid, 1400 nanometers in diameter.</p>",
+            "path": "Slide_7.svg",
+            "visible": true,
+            "popupFlag": 1
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "barLabel": {
+          "xAxis": " ",
+          "yAxis": " "
+        },
+        "imageDetails": [
+          {
+            "alt": "A line scale showing measurements ranging from ten to the negative tenth power to ten to the fourteenth power with five hotspots. Units of measure on the scale are an angstrom at ten to the negative tenth power, a nanometer at ten to the negative ninth power, a micron at ten to the negative sixth power, a milimeter at ten to the negative third power, a centimeter at ten to the negative second power, a meter at ten to the power of zero, and a kilometer at ten to the third power. The hotspots are over the values ten to the negative third power, ten to the negative seventh power, ten to the negative ninth power, ten to the fourth power, and ten to the eighth power.",
+            "path": "Slide_8_B.svg"
+          }
+        ],
+        "bigHotspotImage": false,
+        "headers": [
+          "Select the pin that indicates the correct location for the chromosome structures and then select Check Answer."
+        ],
+        "templateType": "GraphToggle",
+        "successMsg": "Because the molecule is measured in nanometers, it is placed above the nanometer label on the timescale. A nanometer equals 10<sup>-9</sup> meters or one billionth of a meter. For reference, a sheet of paper is about 100,000 nm thick.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "The scale used here is based on a meter. Remember, a nanometer is smaller than a meter. What type of exponent is used for numbers smaller than 0?",
+        "finalFeedback": "The chromosome structures are measured in nanometers. A nanometer equals 10<sup>-9</sup> meters or one billionth of a meter, so these structures belong above the label for 10<sup>-9</sup>.",
+        "correctAttempts": 2,
+        "questionData": {
+          "bigRightSideImg": true,
+          "question": [],
+          "questionOptions": [
+            {
+              "xAxis": 9,
+              "yAxis": 2,
+              "label": "Pin 1, greater than ten to the negative ninth power, greater than one nanometer"
+            },
+            {
+              "xAxis": 9,
+              "yAxis": 25,
+              "label": "Pin 2, ten to the negative fourth power, greater than a micron"
+            },
+            {
+              "xAxis": 9,
+              "yAxis": 40.5,
+              "label": "Pin 3, greater than ten to the zero power, greater than one meter"
+            },
+            {
+              "xAxis": 9,
+              "yAxis": 55.6,
+              "label": "Pin 4, ten to the fourth power, greater than one kilometer"
+            },
+            {
+              "xAxis": 9,
+              "yAxis": 71,
+              "label": "Pin 5, ten to the eighth power, much greater than one kilometer"
+            }
+          ],
+          "questionAnswers": [
+            "0"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Length",
+        "This photo is of dozens of human skin cells, which are each roughly the same width as a human hair. As the scale bar indicates, these cells are each about 0.1 millimeters (mm) across. How many meters  (m) does 0.1 mm equal?"
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image showing microscopic view of skin cell. For Image description click on Image Description Link.",
+            "imageDescription": "The microscopic view shows a grid of skin cells each with a diameter of 0.1 millimeter.",
+            "path": "Slide_9.svg",
+            "visible": true
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "headers": [
+          "Select the correct option and then select Check Answer."
+        ],
+        "templateType": "SingleSelectOptions",
+        "successMsg": "One meter equals 1000 millimeters. To calculate the number of meters in 0.1 mm, divide 0.1 mm by 1000 mm/m, which equals 0.0001 m. A human skin cell is about ten thousand times smaller than a meter.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "The preface \"milli\" means “one thousand.” There are 1000 millimeters in one meter. Convert to meters by dividing 0.1 by this conversion factor (1000 mm/m).",
+        "finalFeedback": "A meter equals 1000 mm. To calculate the number of meters in 0.1 mm, divide 0.1 by 1000 mm, which equals 0.0001 m.",
+        "correctAttempts": 2,
+        "questionData": {
+          "question": [],
+          "questionOptions": [
+            "10,000 m",
+            "0.0001 m"
+          ],
+          "questionAnswers": [
+            "0.0001 m"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Length",
+        "The skin cells in this photo are 0.1 millimeters (mm) or 1 &times; 10<sup>-4</sup> m across. Where does a skin cell belong on this length scale?"
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image showing microscopic view of skin cell. For Image description click on Image Description Link.",
+            "imageDescription": "The microscopic view shows a grid of skin cells each with a diameter of 0.1 millimeter.",
+            "path": "Slide_9.svg",
+            "visible": true
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "barLabel": {
+          "xAxis": " ",
+          "yAxis": " "
+        },
+        "imageDetails": [
+          {
+            "alt": "A line scale showing measurements ranging from ten to the negative tenth power to ten to the fourteenth power with four hotspots. Units of measure on the scale are an angstrom at ten to the negative tenth power, a nanometer at ten to the negative ninth power, a micron at ten to the negative sixth power, a milimeter at ten to the negative third power, a centimeter at ten to the negative second power, a meter at ten to the power of zero, and a kilometer at ten to the third power. The hotspots are over the values ten to the negative fourth power, ten to the power of zero, ten to the fourth power, and ten to the eighth power.",
+            "path": "Slide_10.svg"
+          }
+        ],
+        "bigHotspotImage": false,
+        "headers": [
+          "Select the pin that indicates the correct location for the skin cell and then select Check Answer."
+        ],
+        "templateType": "GraphToggle",
+        "successMsg": "The skin cells should be located above the number 10<sup>-4</sup>. These cells are one tenth of a millimeter long, or about 100,000 larger than the chromosome structures discussed in the genomes chapter. <br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "The scale used here is based on a meter. Remember, a millimeter is 1000 times smaller than a meter. What type of exponent is used for numbers smaller than 0—a negative exponent or a positive one?",
+        "finalFeedback": "The skin cells are located above the label for 10<sup>-4</sup>. 0.1 millimeters (mm) = 1 &times; 10<sup>-4</sup> m.",
+        "correctAttempts": 2,
+        "questionData": {
+          "bigRightSideImg": true,
+          "question": [],
+          "questionOptions": [
+            {
+              "xAxis": 50,
+              "yAxis": 25,
+              "label": "Pin 1, ten to the negative fourth power, greater than a micron"
+            },
+            {
+              "xAxis": 50,
+              "yAxis": 40.3,
+              "label": "Pin 2, greater than ten to the zero power, greater than one meter"
+            },
+            {
+              "xAxis": 50,
+              "yAxis": 55.6,
+              "label": "Pin 3, ten to the fourth power, greater than one kilometer"
+            },
+            {
+              "xAxis": 50,
+              "yAxis": 71,
+              "label": "Pin 4, ten to the eighth power, much greater than one kilometer"
+            }
+          ],
+          "questionAnswers": [
+            "0"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Length",
+        " "
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "Illustration showing human skeleton. For Image description click on Image Description Link.",
+            "imageDescription": "The illustration shows the skeleton of a modern human with a meter scale.",
+            "path": "Slide_11.svg",
+            "visible": true
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "headers": [
+          "Select the correct option from the drop-down menu and select Check Answer."
+        ],
+        "templateType": "DropDownMenu",
+        "successMsg": "The number 2 &times; 10<sup>4</sup> is equivalent to 20,000. To calculate this value, multiply 2 by the number of tens indicated in the exponent, which is four: 2 &times; 10 &times; 10 &times; 10 &times; 10. The human is 20,000 times larger than one of his skin cells.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "In scientific notation, the exponent of ten indicates how many times you need to multiply or divide the number by ten. Because this exponent (4) is positive, multiply 2 by four 10s.",
+        "finalFeedback": "To calculate the value, multiply 2 by the number of tens indicated in the exponent, which is four: 2 &times; 10 &times; 10 &times; 10 &times; 10 = 20,000.",
+        "correctAttempts": 2,
+        "questionData": {
+          "question": [
+            "This excerpt from a figure in the human origins and evolution chapter of your textbook is a drawing of a human skeleton. A tall man is about 2 meters in height. In contrast, a human skin cell is 0.1 mm in length. This means a tall man is 2 &times; 10<sup>4</sup> times larger than one of his skin cells. In other words, the man is",
+            "times larger than his skin cell."
+          ],
+          "questionAriaLabel": [
+            "This excerpt from a figure in the human origins and evolution chapter of your textbook is a drawing of a human skeleton. A tall man is about 2 meters in height. In contrast, a human skin cell is 0.1 mm in length. This means a tall man is 2 &times; 10<sup>4</sup> times larger than one of his skin cells. In other words, the man is blank times larger than his skin cell."
+          ],
+          "questionOptions": [
+            "--select--",
+            "20",
+            "200",
+            "2,000",
+            "20,000"
+          ],
+          "questionAnswers": [
+            "20,000"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Length",
+        "The human skeleton in this figure is about 2 m tall. Where does an a human skeleton belong on this length scale?"
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "Illustration showing human skeleton. For Image description click on Image Description Link.",
+            "imageDescription": "<p>The illustration shows the skeleton of a modern human with a meter scale.</p>",
+            "path": "Slide_11.svg",
+            "visible": true
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "barLabel": {
+          "xAxis": " ",
+          "yAxis": " "
+        },
+        "imageDetails": [
+          {
+            "alt": "A line scale showing measurements ranging from ten to the negative tenth power to ten to the fourteenth power with three hotspots. Units of measure on the scale are an angstrom at ten to the negative tenth power, a nanometer at ten to the negative ninth power, a micron at ten to the negative sixth power, a milimeter at ten to the negative third power, a centimeter at ten to the negative second power, a meter at ten to the power of zero, and a kilometer at ten to the third power. Other measurements shown are as follows - size of a DNA structure at a little more than ten to the negative ninth power and skin cells at ten to the negative fourth power. The hotspots are over the values ten to the negative eighth power, ten to the power of zero, and ten to the fourth power.",
+            "path": "Slide_12_B.svg"
+          }
+        ],
+        "bigHotspotImage": false,
+        "headers": [
+          "Select the pin that indicates the correct location for the skeleton and then select Check Answer."
+        ],
+        "templateType": "GraphToggle",
+        "successMsg": "In the metric system, humans are measured in centimeters or meters, and most people are between 1.5 and 2 meters tall.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "The scale used here is based on a meter. A meter is larger than nanometers or millimeters but smaller than a kilometer.",
+        "finalFeedback": "The human skeleton is placed above the label for Meter because most people are between 1.5 and 2 meter tall.",
+        "correctAttempts": 2,
+        "questionData": {
+          "bigRightSideImg": true,
+          "question": [],
+          "questionOptions": [
+            {
+              "xAxis": 50,
+              "yAxis": 40.3,
+              "label": "Pin 1, greater than ten to the zero power, greater than one meter"
+            },
+            {
+              "xAxis": 50,
+              "yAxis": 55.6,
+              "label": "Pin 2, ten to the fourth power, greater than one kilometer"
+            },
+            {
+              "xAxis": 50,
+              "yAxis": 71,
+              "label": "Pin 3, ten to the eighth power, much greater than one kilometer"
+            }
+          ],
+          "questionAnswers": [
+            "0"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Length",
+        "This figure from the climates and biomes chapter of your textbook shows a map of Earth and the types of biomes found in different parts of the world. Earth is about 10<sup>7</sup> kilometers in diameter. How many meters are there in 10<sup>7</sup> kilometers? Remember that a kilometer is 10<sup>3</sup> (1000) meters. Select all that apply."
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image showing world map. For Image description click on Image Description Link.",
+            "imageDescription": "<p>This figure depicts a map of the world with different biomes shown.</p>",
+            "path": "Slide_13.svg",
+            "visible": true,
+            "popupFlag": 1
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "headers": [
+          "Select the correct option(s) and then select Check Answer."
+        ],
+        "templateType": "MultiSelectOptions",
+        "successMsg": "Earth is 10<sup>10</sup> m or 10,000,000,000 meters in diameter.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "There are 1000, or 10<sup>3</sup>, meters in one kilometer. To calculate the total number of meters in 10<sup>7</sup> kilometers in scientific notation, multiply 10<sup>3</sup> by 10<sup>7</sup>. You can do this by adding the two exponents, 3 and 7, together.",
+        "finalFeedback": "Earth is 10<sup>10</sup> m or 10,000,000,000 meters in diameter.",
+        "correctAttempts": 2,
+        "questionData": {
+          "question": [],
+          "questionOptions": [
+            "10,000,000,000 m",
+            "10,000 m",
+            "10<sup>10</sup> m",
+            "10<sup>4</sup> m"
+          ],
+          "questionAnswers": [
+            "10,000,000,000 m",
+            "10<sup>10</sup> m"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Length",
+        "Earth is about 10<sup>10</sup> m in diameter. Where does Earth belong on this length scale?"
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image showing world map. For Image description click on Image Description Link.",
+            "imageDescription": "<p>This figure shows a map of the world with different biomes shown.</p>",
+            "path": "Slide_13.svg",
+            "visible": true,
+            "popupFlag": 1
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "barLabel": {
+          "xAxis": " ",
+          "yAxis": " "
+        },
+        "imageDetails": [
+          {
+            "alt": "A line scale showing measurements ranging from ten to the negative tenth power to ten to the fourteenth power with two hotspots. Units of measure on the scale are an angstrom at ten to the negative tenth power, a nanometer at ten to the negative ninth power, a micron at ten to the negative sixth power, a milimeter at ten to the negative third power, a centimeter at ten to the negative second power, a meter at ten to the power of zero, and a kilometer at ten to the third power. Other measurements shown are as follows - size of a DNA structure at a little more than ten to the negative ninth power, skin cells at ten to the negative fourth power, and a human skeleton at at ten to the power of zero. The hotspots are over the values ten to the third power, ten to the tenth power.",
+            "path": "Slide_14.svg"
+          }
+        ],
+        "bigHotspotImage": false,
+        "headers": [
+          "Select the pin that indicates the correct location for Earth and then select Check Answer."
+        ],
+        "templateType": "GraphToggle",
+        "successMsg": "Earth belongs above the 10<sup>10</sup> mark on the scale because it is 10<sup>10</sup> meters in diameter.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "The scale used here is based on a meter. Earth is 10<sup>10</sup> meters in diameter.",
+        "finalFeedback": "Earth belongs above the 10<sup>10</sup> mark on the scale because it is 10<sup>10</sup> meters in diameter.",
+        "correctAttempts": 2,
+        "questionData": {
+          "bigRightSideImg": true,
+          "question": [],
+          "questionOptions": [
+            {
+              "xAxis": 50,
+              "yAxis": 55.6,
+              "label": "Pin 1, ten to the fourth power, greater than one kilometer"
+            },
+            {
+              "xAxis": 50,
+              "yAxis": 78.6,
+              "label": "Pin 2, ten to the tenth power, much greater than one kilometer"
+            }
+          ],
+          "questionAnswers": [
+            "1"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Length",
+        "You have put together a length scale with objects that range in size from nanometers to 107 kilometers. To help understand how large this scale is, determine how many orders of magnitude there are between a nanometer (the size of DNA) and 10<sup>10</sup> meters (the size of Earth)."
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image of a line scale. For Image description click on Image Description Link.",
+            "imageDescription": "<p>A line scale showing measurements ranging from 10<sup>-10</sup> to 10<sup>14</sup>.</p> <p>A meter and the average human height are indicated in the middle of the scale at 10<sup>0</sup>.</p> <p>Other units of measure on the scale are an angstrom at 10<sup>-10</sup>, a nanometer at 10<sup>-9</sup>, a micron at 10<sup>-6</sup>, a milimeter at 10<sup>-3</sup>, a centimeter at 10<sup>-2</sup>, a meter at 10<sup>0</sup>, and a kilometer at 10<sup>3</sup>.</p> <p>The image of DNA is show at approximately 10 to the -9 meters. Skin cells are shown at approximately 10 to the -4 meters, half a human's height is shown at one meter, and the size of the Earth is shown at approximately 10 to the 13 meters.</p>",
+            "path": "Slide_15.svg",
+            "visible": true,
+            "popupFlag": 1
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "headers": [
+          "Select the correct option and then select Check Answer."
+        ],
+        "templateType": "SingleSelectOptions",
+        "successMsg": "The chromosome structures that are the smallest objects on the scale are measured in nanometers. Nanometers are 10<sup>-9</sup> meter. Earth is 10<sup>10</sup> meter. To calculate the orders of magnitude between 10<sup>-9</sup> and 10<sup>10</sup>, subtract -9 from 10: 10 – -9 = 19. There are 19 orders of magnitude between the size of the chromosome structures and the diameter of Earth. That is a one followed by 19 zeros.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "To calculate the order of magnitude difference, find the nanometer label on the horizontal axis. How many places do you need to move to get from -9 to 0?  How many places do you need to move to get from 0 to 10?  Add those two together.",
+        "finalFeedback": "The chromosome structures that are the smallest objects on the scale are measured in nanometers. Nanometers are 10<sup>-9</sup> meter. Earth is 10<sup>10</sup> meter. To calculate the orders of magnitude between 10<sup>-9</sup> and 10<sup>10</sup>, subtract -9 from 10: 10 – -9 = 19. There are 19 orders of magnitude between the size of the chromosome structures and the diameter of Earth. That is a one followed by 19 zeros.",
+        "correctAttempts": 2,
+        "questionData": {
+          "question": [],
+          "questionOptions": [
+            "19",
+            "3",
+            "10"
+          ],
+          "questionAnswers": [
+            "19"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Time",
+        "Just as you can consider the size of Earth and its many lifeforms, you can also consider the time it has taken for life on Earth to evolve. Biologists often discuss events that happened many millions of years ago. Thinking about time on this scale also involves orders of magnitude. Earth formed about 4.567 billion years ago. A billion is 10<sup>9</sup>. How can you express the number 4.567 billion years ago in millions of years?"
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image showing planet earth. For Image description click on Image Description Link.",
+            "imageDescription": "<p>Image of the planet Earth with a molten surface early in its history and formation.</p> <p>The surface of the planet is mottled with fiery orange, red, and brown.</p> <p>It is suspended in the vast blackness of space, dotted with a few stars.</p>",
+            "path": "Slide_16.svg",
+            "visible": true
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "headers": [
+          "Select the correct option and then select Check Answer."
+        ],
+        "templateType": "SingleSelectOptions",
+        "successMsg": "Because there are 1000 times as many years in a billion (1,000,000,000 or 10<sup>9</sup>) than in a million years (1,000,000 or 10<sup>6</sup>), you need to move the decimal three places to the right = 4.567 billion years equals 4567 million years.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "How much larger is a billion (10<sup>9</sup>) than a million (10<sup>6</sup>)?",
+        "finalFeedback": "A billion is 1000 times larger than a million, so you move the decimal three places—one for each zero. 4.567 billion years is equivalent to 4567 million years.",
+        "correctAttempts": 2,
+        "questionData": {
+          "question": [],
+          "questionOptions": [
+            "456,700,000 million years ago",
+            ".4567 million years ago",
+            "4567 million years ago"
+          ],
+          "questionAnswers": [
+            "4567 million years ago"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Time",
+        "Earth formed about 4567 million years ago. Where should you place the newly formed Earth on the timescale in this figure from the evolutionary patterns chapter of your textbook?"
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image showing planet earth. For Image description click on Image Description Link.",
+            "imageDescription": "<p>Image of the planet Earth with a molten surface early in its history and formation.</p> <p>The surface of the planet is mottled with fiery orange, red, and brown.</p> <p>It is suspended in the vast blackness of space, dotted with a few stars.</p> An image of a time scale showing the Hadeon, Archean, Proterozoic, and Phanerozoic eons.</p> <ul><li>The Hadeon eon lasted from 4567 to 4000 million years ago</li><li> The Archean eon lasted from 4000 to 2500 million years ago</li><li> The Proterozoic eon lasted from 2500 to 541 million years ago</li><li style=\"padding-bottom:0\"> The Phanerozoic eon lasted from 541 million years ago to present</li></ul>",
+            "path": "Slide_16.svg",
+            "visible": true
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "barLabel": {
+          "xAxis": " ",
+          "yAxis": " "
+        },
+        "imageDetails": [
+          {
+            "alt": "An image of a time scale with three hotspots showing the Hadeon, Archean, Proterozoic, and Phanerozoic eons. The Hadeon eon lasted from four thousand and sixty seven to four thousand million years ago. The Archean eon lasted from four thousand to two thousand and five hundred million years ago. The Proterozoic eon lasted from two thousand and five hundred to five hundred and forty one million years ago. The Phanerozoic eon lasted from five hundred and forty one million years ago to present time. The hotspots are placed at four thousand and sixty seven, two thousand and four hundred, five hundred and forty one, and zero millions of years ago.",
+            "path": "Slide_17.svg"
+          }
+        ],
+        "bigHotspotImage": false,
+        "headers": [
+          "Select the pin that indicates the correct time for Earth's formation and then select Check Answer."
+        ],
+        "templateType": "GraphToggle",
+        "successMsg": "The formation of Earth occurred at the beginning of the Hadean Eon, 4567 million years ago.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "The far right of the timeline is the present day. Moving to the left, you move further back in time—away from the present. The units on the timescale are millions of years.",
+        "finalFeedback": "The far right of the timeline is the present day. Moving to the left, you move further back in time—away from the present. The units on the timescale are millions of years. The formation of Earth—4567 million years ago—is located the far left end of the timeline at the beginning of the Hadean Eon.",
+        "correctAttempts": 2,
+        "questionData": {
+          "bigRightSideImg": true,
+          "question": [],
+          "questionOptions": [
+            {
+              "xAxis": 58,
+              "yAxis": 2.5,
+              "label": "Pin 1, approximately 4567 million years ago"
+            },
+            {
+              "xAxis": 58,
+              "yAxis": 41,
+              "label": "Pin 2, approximately 2500 million years ago"
+            },
+            {
+              "xAxis": 58,
+              "yAxis": 76,
+              "label": "Pin 3, approximately 600 million years ago"
+            },
+            {
+              "xAxis": 58,
+              "yAxis": 86,
+              "label": "Pin 4, approximately 250 million years ago"
+            }
+          ],
+          "questionAnswers": [
+            "0"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Time",
+        "The evolution of eukaryotic cells is the next major event on our timeline of life on Earth. Eukaryotic cells have true nuclei, which prokaryotic cells, including bacteria, lack. The oldest eukaryotic microfossils on Earth are about 2100 million years old. How do you express that number in scientific notation?"
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image of microfossil. For Image description click on Image Description Link.",
+            "imageDescription": "An image of a eukaryotic microfossil labeled first eukaryotic microfossils.",
+            "path": "Slide_19.svg",
+            "visible": true
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "headers": [
+          "Select the correct option and then select Check Answer."
+        ],
+        "templateType": "SingleSelectOptions",
+        "successMsg": "The number 2100 million is 2100 &times; 10<sup>6</sup> in scientific notation. To convert 2100 to 2.1, move the decimal three places to the the left. This makes the number three orders of magnitude smaller or 2.1 &times; 10<sup>3</sup>.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "The number 2100 million is is expressed as 2100 &times; 10<sup>6</sup>. To express 2100 in scientific notation, move the decimal place until it is between the 2 and the 1. You then need to subtract the number of places that you moved the decimal point, which is three places (3), from the exponent 6 since the number was originally 2100 &times; 10<sup>6</sup> to figure out the new exponent.",
+        "finalFeedback": "The number 2100 million is expressed as 2100 &times; 10<sup>6</sup>. To convert 2100 to 2.1, move the decimal three places to the the left. This makes the number three orders of magnitude smaller or 2.1 &times; 10<sup>3</sup>.",
+        "correctAttempts": 2,
+        "questionData": {
+          "question": [],
+          "questionOptions": [
+            "2.1 &times; 10<sup>3</sup> million years",
+            "2.1 &times; 10<sup>4</sup> million years"
+          ],
+          "questionAnswers": [
+            "2.1 &times; 10<sup>3</sup> million years"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Time",
+        "The first eukaryotic microfossils evolved about 2100 million years ago. Where do these microfossils belong on the timescale?"
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image of microfossil. For Image description click on Image Description Link.",
+            "imageDescription": "<p>An image of a eukaryotic microfossil labeled first eukaryotic microfossils.</p> An image of a time scale showing the Hadeon, Archean, Proterozoic, and Phanerozoic eons.</p> <ul><li>The Hadeon eon lasted from 4567 to 4000 million years ago</li><li> The Archean eon lasted from 4000 to 2500 million years ago</li><li> The Proterozoic eon lasted from 2500 to 541 million years ago</li><li style=\"padding-bottom:0\"> The Phanerozoic eon lasted from 541 million years ago to present</li></ul> <p>An image of the planet Earth with a molten surface early in it's history and formation is shown at the beginning of the Hadeon eon.</p>",
+            "path": "Slide_19.svg",
+            "visible": true
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "barLabel": {
+          "xAxis": " ",
+          "yAxis": " "
+        },
+        "imageDetails": [
+          {
+            "alt": "An image of a time scale with four hotspots showing the Hadeon, Archean, Proterozoic, and Phanerozoic eons. The Hadeon eon lasted from four thousand and sixty seven to four thousand million years ago. The Archean eon lasted from four thousand to two thousand and five hundred million years ago. The Proterozoic eon lasted from two thousand and five hundred to five hundred and forty one million years ago. The Phanerozoic eon lasted from five hundred and forty one million years ago to present time. An image of the planet Earth with a molten surface early in it's history and formation is shown at the beginning of the Hadeon eon. The hotspots are placed at two hundred and ten, six hundred, two thousand and one hundred, and three thousand and five hundred million years ago.",
+            "path": "Slide_20.svg"
+          }
+        ],
+        "bigHotspotImage": false,
+        "headers": [
+          "Select the pin that indicates the correct time for the first eukaryotic microfossils and then select Check Answer."
+        ],
+        "templateType": "GraphToggle",
+        "successMsg": "The first evidence of eukaryotic cells occurred in the Proterozoic about 2100 million years ago.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "The far right of the timeline is the present day. Moving to the left, you move further back in time—away from the present. 2100 million years ago is closer to the present day than 4567 million years ago (which is when the formation of Earth took place).",
+        "finalFeedback": "The first eukaryotic cells found by scientists are approximately 2100 million years old. This event happened in the early part of the Proterozoic Eon, near the marker for 2500 million years ago on the timescale.",
+        "correctAttempts": 2,
+        "questionData": {
+          "bigRightSideImg": true,
+          "question": [],
+          "questionOptions": [
+            {
+              "xAxis": 58,
+              "yAxis": 16,
+              "label": "Pin 1, approximately 3900 million years ago"
+            },
+            {
+              "xAxis": 58,
+              "yAxis": 45,
+              "label": "Pin 2, approximately 2100 million years ago"
+            },
+            {
+              "xAxis": 58,
+              "yAxis": 66,
+              "label": "Pin 3, approximately 900 million years ago"
+            },
+            {
+              "xAxis": 58,
+              "yAxis": 80,
+              "label": "Pin 4, approximately 541 million years ago"
+            }
+          ],
+          "questionAnswers": [
+            "1"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Time",
+        "Another important evolutionary landmark is the evolution of plants. This photo shows a fossil of one of the first land plants, which appeared on Earth about 4.65 &times; 10<sup>8</sup> years ago. How many millions of years ago was 4.65 &times; 10<sup>8</sup> years ago?"
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image of plant fossil. For Image description click on Image Description Link.",
+            "imageDescription": "An image of a plant fossil labeled first land plant fossils.",
+            "path": "Slide_21.svg",
+            "visible": true
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "headers": [
+          "Select the correct option and then select Check Answer."
+        ],
+        "templateType": "SingleSelectOptions",
+        "successMsg": "Millions of years is 10<sup>6</sup>, two orders of magnitude smaller than 10<sup>8</sup>. To convert the scientific notation, 4.65 &times; 10<sup>8</sup> to millions of years, move the decimal two places to the right, which results in the number 465.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "Find the exponent in the number 4.65 &times; 10<sup>8</sup> and compare it to the exponent in millions of years, which is 10<sup>6</sup>. There are two orders of magnitude difference between 10<sup>6</sup> and 10<sup>8</sup>. Which direction should you move the decimal to indicate this change in size? ",
+        "finalFeedback": "Millions of years is 10<sup>6</sup>, two orders of magnitude smaller than 10<sup>8</sup>. To convert the scientific notation, 4.65 &times; 10<sup>8</sup> to millions of years, move the decimal two places to the right, which results in the number 465.",
+        "correctAttempts": 2,
+        "questionData": {
+          "question": [],
+          "questionOptions": [
+            "46.5 millions of years ago",
+            "4650 millions of years ago",
+            "465 millions of years ago"
+          ],
+          "questionAnswers": [
+            "465 millions of years ago"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Time",
+        "Where do the first land plant fossil that evolved 465 millions of years ago belong on the timescale? Note that the timescale now has been expanded to include more times. This expands the Phanerozoic Eon so more events can fit on the timescale."
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image of plant fossil. For Image description click on Image Description Link.",
+            "imageDescription": "An image of a plant fossil labeled first land plant fossils.",
+            "path": "Slide_21.svg",
+            "visible": true
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "barLabel": {
+          "xAxis": " ",
+          "yAxis": " "
+        },
+        "imageDetails": [
+          {
+            "alt": "An image of two time scales with four hotspots. The first time scale shows the Hadeon, Archean, Proterozoic, and Phanerozoic eons. The Hadeon eon lasted from four thousand and sixty seven to four thousand million years ago. The Archean eon lasted from four thousand to two thousand and five hundred million years ago. The Proterozoic eon lasted from two thousand and five hundred to five hundred and forty one million years ago. The Phanerozoic eon lasted from five hundred and forty one million years ago to present time. The second time scale shows the Phanerozoic eon broken up into the Paleozoic, Mesozoic, and Cenozoic eras. The Paleozoic era lasted from five hundred and forty one to two hundred and fifty two million years ago. The Mesozoic era lasted from two hundred and fifty two to sixty six million years ago. The Cenozoic era lasted from sixty million years ago to today. The Paleozoic era is further broken up in the Cambrian, Ordovician, Silurian, Devosonian, Carboniferous and Permian periods. The Cambrian period lasted from five hundred and forty one to four hundred and eighty five million years ago. The Ordovician period lasted from four hundred and eighty five to four hundred and forty four million years ago. Silurian period lasted from four hundred and forty four to four hundred and nineteen million years ago. The Devosonian period lasted from four hundred and nineteen to three hundred and fifty nine million years ago. The Carboniferous period lasted from three hundred and fifty nine to two hundred and ninety nine million years ago. The Permian period lasted from two hundred and ninety nine to two hundred and fifty two million years ago. The Mesozoic era is broken up into Triassic, Jurassic, and Cretaceous periods. The Triassic period lasted from  two hundred and fifty two to two hundred and one million years ago. The Jurassic period lasted from two hundred and one to one hundred and forty five million years ago. The Cretaceous lasted from one hundred and forty five to eleven million years ago. The Paleogene period lasted from sixty six to twenty three million years ago. The Neogene period started twenty three million years ago but the end date is not marked on the timescale. The Quaternary period began at the end of the Neogene and continues to the present day. An image of the planet Earth with a molten surface early in it's history and formation is shown at the beginning of the Hadeon eon. The first evidence of life is from the beginning of the Proterozoic eon where an image of a eukaryotic microfossil is shown. The hotspots are placed over forty six, two hundred and fifty two, four hundred and sixty five, and five hundred and forty one million years ago.",
+            "path": "Slide_22.svg"
+          }
+        ],
+        "bigHotspotImage": false,
+        "headers": [
+          "Select the pin that indicates the correct time for the first land plant fossils and then select Check Answer."
+        ],
+        "templateType": "GraphToggle",
+        "successMsg": "The first land plant fossil is about 465 million years old and is located between 485 and 443 million years ago on the timescale.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "The far right of the timeline is the present day. Moving to the left you move further back in time—away from the present. The units on the timescale are millions of years.",
+        "finalFeedback": "The first land plant fossil lived about 465 million years old and is located between 485 and 443 million years ago on the timescale.",
+        "correctAttempts": 2,
+        "questionData": {
+          "bigRightSideImg": true,
+          "question": [],
+          "questionOptions": [
+            {
+              "xAxis": 63,
+              "yAxis": 8,
+              "label": "Pin 1, approximately 500 million years ago"
+            },
+            {
+              "xAxis": 63,
+              "yAxis": 21,
+              "label": "Pin 2, approximately 465 million years ago"
+            },
+            {
+              "xAxis": 63,
+              "yAxis": 52.5,
+              "label": "Pin 3, approximately 235 million years ago"
+            },
+            {
+              "xAxis": 63,
+              "yAxis": 85,
+              "label": "Pin 4, approximately 40 million years ago"
+            }
+          ],
+          "questionAnswers": [
+            "1"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Time",
+        "The next two key events are the evolution of dinosaurs and humans. The dinosaurs lived between about 235 and 66 million years ago. The first humans (<i>Homo sapiens</i>) evolved around 200,000 years ago.  How many millions of years ago did humans evolve?"
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "Two images showing dinosaur skeleton and human skull. For Image description click on Image Description Link.",
+            "imageDescription": "An image of a dinosaur skeleton labeled “Age of the dinosaurs” and an image of a human skull labeled “Homo sapiens”.",
+            "path": "Slide_23.svg",
+            "visible": true
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "headers": [
+          "Select the correct option and then select Check Answer."
+        ],
+        "templateType": "SingleSelectOptions",
+        "successMsg": "If something happened 200,000 years ago, it happened 0.2 million years ago. 200,000 years ago is 2 &times; 10<sup>5</sup> years ago. A million is 10<sup>6</sup> years ago. Move the decimal one place to the left to convert hundreds of thousands of years to millions of years.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "200,000 years ago is 2 &times; 10<sup>5</sup> years ago in scientific notation. A million is 10<sup>6</sup> years ago.",
+        "finalFeedback": "If something happened 200,000 years ago, it happened 0.2 million years ago. 200,000 years ago is 2 &times; 10<sup>5</sup> years ago. A million is 10<sup>6</sup> years ago. You move the decimal one place to the left to convert hundreds of thousands of years to millions of years.",
+        "correctAttempts": 2,
+        "questionData": {
+          "question": [],
+          "questionOptions": [
+            "200",
+            "20",
+            ".2"
+          ],
+          "questionAnswers": [
+            ".2"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Time",
+        "Dinosaurs lived on Earth between 235 and 66 million years ago. When did the age of dinosaurs begin?"
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image of dinosaur skeleton. For Image description click on Image Description Link.",
+            "imageDescription": "<p>An image of a dinosaur skeleton labeled “Age of the dinosaurs”.",
+            "path": "Slide_24_B.svg",
+            "visible": true
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "barLabel": {
+          "xAxis": " ",
+          "yAxis": " "
+        },
+        "imageDetails": [
+          {
+            "alt": "An image of two time scales with three hotspots. The first time scale shows the Hadeon, Archean, Proterozoic, and Phanerozoic eons. The Hadeon eon lasted from four thousand and sixty seven to four thousand million years ago. The Archean eon lasted from four thousand to two thousand and five hundred million years ago. The Proterozoic eon lasted from two thousand and five hundred to five hundred and forty one million years ago. The Phanerozoic eon lasted from five hundred and forty one million years ago to present time. The second time scale shows the Phanerozoic eon broken up into the Paleozoic, Mesozoic, and Cenozoic eras. The Paleozoic era lasted from five hundred and forty one to two hundred and fifty two million years ago. The Mesozoic era lasted from two hundred and fifty two to sixty six million years ago. The Cenozoic era lasted from sixty million years ago to today. The Paleozoic era is further broken up in the Cambrian, Ordovician, Silurian, Devosonian, Carboniferous and Permian periods. The Cambrian period lasted from five hundred and forty one to four hundred and eighty five million years ago. The Ordovician period lasted from four hundred and eighty five to four hundred and forty four million years ago. Silurian period lasted from four hundred and forty four to four hundred and nineteen million years ago. The Devosonian period lasted from four hundred and nineteen to three hundred and fifty nine million years ago. The Carboniferous period lasted from three hundred and fifty nine to two hundred and ninety nine million years ago. The Permian period lasted from two hundred and ninety nine to two hundred and fifty two million years ago. The Mesozoic era is broken up into Triassic, Jurassic, and Cretaceous periods. The Triassic period lasted from  two hundred and fifty two to two hundred and one million years ago. The Jurassic period lasted from two hundred and one to one hundred and forty five million years ago. The Cretaceous lasted from one hundred and forty five to eleven million years ago. The Paleogene period lasted from sixty six to twenty three million years ago. The Neogene period started twenty three million years ago but the end date is not marked on the timescale. The Quaternary period began at the end of the Neogene and continues to the present day. An image of the planet Earth with a molten surface early in it's history and formation is shown at the beginning of the Hadeon eon. The first evidence of life is from the beginning of the Proterozoic eon where an image of a eukaryotic microfossil is shown. An image showing a plant fossil is at the middle of the Ordovician period. The hotspots are placed over forty six, two hundred and thirty five, and five hundred and forty one million years ago.",
+            "path": "Slide_24_A.svg"
+          }
+        ],
+        "bigHotspotImage": false,
+        "headers": [
+          "Select the pin that indicates the correct time for the beginning of the age of the dinosaurs and then select Check Answer."
+        ],
+        "templateType": "GraphToggle",
+        "successMsg": "The age of dinosaurs was in the Phanerozoic Eon between 235 million years ago and 66 million years ago. The correct location for the pin is between 252 and 201 million years ago.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "The far right of the timeline is the present day. Moving to the left, you move further back in time—away from the present. The units on the timescale are millions of years. The dinosaurs lived on Earth between 235 and 66 million years ago.",
+        "finalFeedback": "The age of dinosaurs began in the Phanerozoic Eon between 235 and 66 million years ago. The correct location for the pin is between the markers for 252 and 201 mya.",
+        "correctAttempts": 2,
+        "questionData": {
+          "bigRightSideImg": true,
+          "question": [],
+          "questionOptions": [
+            {
+              "xAxis": 60,
+              "yAxis": 8,
+              "label": "Pin 1, approximately 500 million years ago"
+            },
+            {
+              "xAxis": 60,
+              "yAxis": 54,
+              "label": "Pin 2, approximately 235 million years ago"
+            },
+            {
+              "xAxis": 60,
+              "yAxis": 87,
+              "label": "Pin 3, approximately 40 million years ago"
+            }
+          ],
+          "questionAnswers": [
+            "1"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Understand Scale: Time",
+        "Humans evolved about 0.2 million years ago. Where does the image illustrating the evolution of <i>Homo sapiens</i> belong on the timescale?"
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image of human skull. For Image description click on Image Description Link.",
+            "imageDescription": "<p>An image of a human skull labeled “Homo sapiens”.",
+            "path": "Slide_25_B.svg",
+            "visible": true
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "barLabel": {
+          "xAxis": " ",
+          "yAxis": " "
+        },
+        "imageDetails": [
+          {
+            "alt": "An image of two time scales with three hotspots. The first time scale shows the Hadeon, Archean, Proterozoic, and Phanerozoic eons. The Hadeon eon lasted from four thousand and sixty seven to four thousand million years ago. The Archean eon lasted from four thousand to two thousand and five hundred million years ago. The Proterozoic eon lasted from two thousand and five hundred to five hundred and forty one million years ago. The Phanerozoic eon lasted from five hundred and forty one million years ago to present time. The second time scale shows the Phanerozoic eon broken up into the Paleozoic, Mesozoic, and Cenozoic eras. The Paleozoic era lasted from five hundred and forty one to two hundred and fifty two million years ago. The Mesozoic era lasted from two hundred and fifty two to sixty six million years ago. The Cenozoic era lasted from sixty million years ago to today. The Paleozoic era is further broken up in the Cambrian, Ordovician, Silurian, Devosonian, Carboniferous and Permian periods. The Cambrian period lasted from five hundred and forty one to four hundred and eighty five million years ago. The Ordovician period lasted from four hundred and eighty five to four hundred and forty four million years ago. Silurian period lasted from four hundred and forty four to four hundred and nineteen million years ago. The Devosonian period lasted from four hundred and nineteen to three hundred and fifty nine million years ago. The Carboniferous period lasted from three hundred and fifty nine to two hundred and ninety nine million years ago. The Permian period lasted from two hundred and ninety nine to two hundred and fifty two million years ago. The Mesozoic era is broken up into Triassic, Jurassic, and Cretaceous periods. The Triassic period lasted from  two hundred and fifty two to two hundred and one million years ago. The Jurassic period lasted from two hundred and one to one hundred and forty five million years ago. The Cretaceous lasted from one hundred and forty five to eleven million years ago. The Paleogene period lasted from sixty six to twenty three million years ago. The Neogene period started twenty three million years ago but the end date is not marked on the timescale. The Quaternary period began at the end of the Neogene and continues to the present day. An image of the planet Earth with a molten surface early in it's history and formation is shown at the beginning of the Hadeon eon. The first evidence of life is from the beginning of the Proterozoic eon where an image of a eukaryotic microfossil is shown. An image showing a plant fossil is at the middle of the Ordovician period. An image of a dinosaur skeleton is at the middle of the Triassic period showing the age of the dinosaurs. The hotspots are placed over forty six, and  five hundred and forty one million years ago.",
+            "path": "Slide_25_A.svg"
+          }
+        ],
+        "bigHotspotImage": false,
+        "headers": [
+          "Select the pin that indicates the correct time for the first Homo sapiens and then select Check Answer."
+        ],
+        "templateType": "GraphToggle",
+        "successMsg": "Humans evolved just two hundred thousand years ago–about one fifth of a million years ago and are thus located at the very right end of the bottom timeline.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "The far right of the timeline is the present day. Moving to the left, you move further back in time—away from the present into the past. Remember that humans have been on the planet for less than one million years.",
+        "finalFeedback": "The human species is such a newcomer on Earth that they are placed at the far right end of the timeline. Humans evolved just two hundred thousand years ago—about one fifth of a million years ago.",
+        "correctAttempts": 2,
+        "questionData": {
+          "bigRightSideImg": true,
+          "question": [],
+          "questionOptions": [
+            {
+              "xAxis": 56,
+              "yAxis": 9,
+              "label": "Pin 1, approximately 500 million years ago"
+            },
+            {
+              "xAxis": 56,
+              "yAxis": 88,
+              "label": "Pin 2, approximately 40 million years ago"
+            },
+            {
+              "xAxis": 56,
+              "yAxis": 94,
+              "label": "Pin 3, 0.2 millions years ago"
+            }
+          ],
+          "questionAnswers": [
+            "2"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": false,
+      "templateHeading": [
+        "More Practice with Length and Timescales"
+      ],
+      "sampleTemplate": "sampleData",
+      "templateType": "SampleScreen",
+      "mainFrame": {
+        "text": "The subsequent screens feature figures from your textbook. The questions that accompany these figures are designed to give you practice understanding the length and timescales you will encounter in your introductory biology course.",
+        "listingData": []
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Practice Exercise 1",
+        "In the lab, bacterial cells, like the one shown in this photo, are often grown in shallow bowls called petri dishes. A standard petri dish is 10 cm (100,000 μm) across and each bacterial cell is about 2 μm long. There are one hundred centimeters (cm) in one meter and one million micrometers (μm) in one meter and 1 cm = 10,000 μm. How many bacteria would fit lined up end to end across a petri dish?"
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image of bacteria. For Image description click on Image Description Link.",
+            "imageDescription": "The photo shows <i>E. coli</i>, which are rod-shaped bacteria that tend to occur individually and in large clumps. A scale bar on the image shows that each <i>E. coli</i> is approximately 2 μm long.",
+            "path": "Slide_27.svg",
+            "visible": true
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "headers": [
+          "Select the correct option and then select Check Answer."
+        ],
+        "templateType": "SingleSelectOptions",
+        "successMsg": "A petri dish is 10 cm or 100,000  μm. To calculate how many bacteria cells fit across the dish, divide this number by the length of a single bacteria cell, which is 2 μm. You could fit 50,000 bacteria across the petri dish.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "A petri dish is 10 cm or 100,000  μm. To calculate how many bacteria cells fit across the dish, divide this number by the length of a single bacteria cell, which is 2 μm.",
+        "finalFeedback": "To calculate the number of bacteria, divide 10,000 μm by 2 μm, which equals 50,000 bacteria.",
+        "correctAttempts": 2,
+        "questionData": {
+          "question": [],
+          "questionOptions": [
+            "50,000",
+            "500,000",
+            "5,000,000"
+          ],
+          "questionAnswers": [
+            "50,000"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Practice Exercise 2",
+        "This figure shows a timescale of events on Earth. Earth formed about 4567 million years ago, and the first known fossil animals date from about 541 million years ago. How many years passed between the formation of Earth and the first known animal fossils? Select all that apply."
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image of a time scale showing the Hadeon, Archean, Proterozoic, and Phanerozoic eons. For Image description click on Image Description Link.",
+            "imageDescription": "An image of a time scale showing the Hadeon, Archean, Proterozoic, and Phanerozoic eons.<ul> <li>The Hadeon eon lasted from 4567 to 4000 million years ago</li> <li>The Archean eon lasted from 4000 to 2500 million years ago</li> <li> The Proterozoic eon lasted from 2500 to 541 million years ago</li> <li style=\"padding-bottom:0\"> The Phanerozoic eon lasted from 541 million years ago to present</li> </ul> <p>The Earth formed at the beginning of the Hadean eon. An image of bacterium showing the first evidence of life is from the beginning of the Archean eon. The first evidence of oxygen is from the beginning of the Proterozoic eon.</p> <p>An image of an eukaryotic microfossil is at approximately 1500 million years ago whereas an image showing the the major diversification of eukaryotic microorganisms and an image of an animal fossil showing the first animal fossils are from the end of the Proterozoic eon.</p>",
+            "path": "Slide_28.svg",
+            "visible": true,
+            "popupFlag": 1
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "headers": [
+          "Select the correct option(s) and then select Check Answer."
+        ],
+        "templateType": "MultiSelectOptions",
+        "successMsg": "Calculate the difference by subtracting the age of the first known fossil from the age of Earth: 4567 – 541 = 4026. Both these numbers (4567 and 541) are written in millions of years (10<sup>6</sup>) so the answer can be written as either 4026 &times; 10<sup>6</sup> or 4.026 &times; 10<sup>9</sup>.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "Subtract the age of the first animal fossils, 541 million years, from the age of Earth, 4567 million years. You can indicate millions of years with the exponent 10<sup>6</sup>. Is there a way to express equivalent amounts by using a different exponent and moving the decimal place in the number?",
+        "finalFeedback": "Calculate the difference by subtracting the age of the first known fossil from the age of the Earth: 4567 – 541 = 4026. Both these numbers (4567 and 541) are written in millions of years (10<sup>6</sup>) so the answer can be written as either 4026 &times; 10<sup>6</sup> or 4.026 &times; 10<sup>9</sup>.",
+        "correctAttempts": 2,
+        "questionData": {
+          "question": [],
+          "questionOptions": [
+            "4026 &times; 10<sup>6</sup> years",
+            "4.026 &times; 10<sup>3</sup> years",
+            "4.026 &times; 10<sup>9</sup> years"
+          ],
+          "questionAnswers": [
+            "4026 &times; 10<sup>6</sup> years",
+            "4.026 &times; 10<sup>9</sup> years"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Practice Exercise 3",
+        ""
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image showing song acquisition in the White-Crowned Sparrow. For Image description click on Image Description Link.",
+            "imageDescription": "<p>The figure shows song acquisition in the White-Crowned Sparrows. A sonogram shows differences between the unstructured twittering of early life and the final, structured song.</p> <p>Sections are labeled as sensitive period (5-50 days), twittering (50-250 days) with sonogram representing unstructured sounds, plastic song (250-300 days), and structured song (300-350 days) with sonogram depicting structured song. On the right is a photograph of an adult sparrow with its beak open.</p>",
+            "path": "Slide_29.svg",
+            "visible": true,
+            "popupFlag": 1
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "headers": [
+          "Select the correct options from the drop-down menus and select Check Answer when all the blanks are filled."
+        ],
+        "templateType": "DropDownMenu",
+        "successMsg": "The bottom axis of the sonogram has units of time in days. There are 350 days shown in the figure and there are 365 days in a year.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "Look at the bottom of the sonogram to figure out what was measured.  How many days are in a week? In a year?",
+        "finalFeedback": "The bottom axis of the sonogram has units of time in days. There are 350 days shown in the figure and there are 365 days in a year.",
+        "correctAttempts": 2,
+        "questionData": {
+          "question": [
+            "This figure from the behavioral ecology chapter of your textbook is a sonogram illustrating the varying song structure of a sparrow singing. The time period the experiment took place over is measured in",
+            "The sonogram covers approximately a ",
+            "."
+          ],
+          "questionAriaLabel": [
+            "This figure from the behavioral ecology chapter of your textbook is a sonogram illustrating the varying song structure of a sparrow singing. The time period the experiment took place over is measured in blank.",
+            "The sonogram covers approximately a blank."
+          ],
+          "questionOptions": [
+            "--select--",
+            "seconds",
+            "days",
+            "year",
+            "week"
+          ],
+          "questionAnswers": [
+            "days",
+            "year"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Practice Exercise 4",
+        ""
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image showing different types of algae. For Image description click on Image Description Link.",
+            "imageDescription": "<p>An image showing five different types of green algae.</p> <p><i>Halosphaera minor</i> is shown in A with a scale bar of 20 μm.</p> <p><i>Spirogyra</i> is showin in B with scale bar of 50 μm.</p> <p>A desmid is shown in C with a scale bar of 50 μm.</p> <p><i>Vovlox</i> is shown in D with a scale bar of 50 μm.</p> <p><i>Acetabularia</i> is shown in E with a scale bar of 1 mm.</p>",
+            "path": "Slide_30.svg",
+            "visible": true,
+            "popupFlag": 1
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "headers": [
+          "Select the correct option from the drop-down menu and select Check Answer."
+        ],
+        "templateType": "DropDownMenu",
+        "successMsg": "There are one thousand millimeters (mm) in one meter and one million micrometers (μm) in one meter. A micrometer (μm) is 1000 times smaller than a millimeter, so 1 mm = 1000 μm. The algae in (e) are 1000 times larger than the other green algae shown here.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "A millimeter is 1/1000 (10<sup>-3</sup>) of a meter, and a micrometer is 1/1000000 (10<sup>-6</sup>). How can you convert between millimeters and micrometers? ",
+        "finalFeedback": "There are one thousand millimeters (mm) in one meter and one million micrometers (μm) in one meter. A micrometer (μm) is 1000 times smaller than a millimeter, so 1 mm = 1000 μm. The algae in (e) are 1000 times larger than the other green algae shown here.",
+        "correctAttempts": 2,
+        "questionData": {
+          "question": [
+            "This figure from the eukarotic cells chapter of your textbook shows a diverse set of green algae. The scale bar in the bottom of each figure helps you to understand their size relationship to each other. All of the algae but (e) have bars in micrometers (μm) . The scale in part e is in millimeters (mm). There are one thousand millimeters (mm) in one meter and one million micrometers (μm) in one meter. If you were to convert the bar in (e) into μm it would be",
+            "."
+          ],
+          "questionAriaLabel": [
+            "This figure from the eukarotic cells chapter of your textbook shows a diverse set of green algae. The scale bar in the bottom of each figure helps you to understand their size relationship to each other.  All of the algae but (e) have bars in micrometers (μm) . The scale in part e is in millimeters (mm). There are one thousand millimeters (mm) in one meter and one million micrometers (μm) in one meter.  If you were to convert the bar in (e) into μm it would be blank."
+          ],
+          "questionOptions": [
+            "--select--",
+            "1 μm",
+            "10 μm",
+            "100 μm",
+            "1000 μm"
+          ],
+          "questionAnswers": [
+            "1000 μm"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": true,
+      "templateHeading": [
+        "Practice Exercise 5",
+        "This image shows a variety of multicellular organisms, including algae, land plants, an animal, and a fungus.  These images do not have a scale bar to indicate the sizes of the organisms. If you were to add a scale bar to this figure to indicate size, which of these units would be the best choice to use for comparison?"
+      ],
+      "leftFrame": {
+        "headers": [
+          ""
+        ],
+        "imageDetails": [
+          {
+            "alt": "An image showing five types of multicellular organisms. For Image description click on Image Description Link.",
+            "imageDescription": "An image showing five types of multicellular organisms. Red algae is shown in A, brown algae is shown in B, a tree is shown in C, a chameleon is shown in D, and fungi are shown in E.",
+            "path": "Slide_31.svg",
+            "visible": true,
+            "popupFlag": 1
+          }
+        ]
+      },
+      "singleQuestionSet": false,
+      "rightFrame": {
+        "headers": [
+          "Select the correct option and then select Check Answer."
+        ],
+        "templateType": "SingleSelectOptions",
+        "successMsg": "A meter is the best unit to use here. It is unlikely that the mushroom or the lizard would be 1000 meters long (a km) and none of these organisms is small enough for the use of μm to be appropriate.<br><br>Select the OK button and then select the forward arrow to continue.",
+        "errorMsg": "Think about how large each organism is and how large each of the units is. A guitar is about one meter long. There are one million micrometers (μm) in one meter. Are any of these organisms microscopic? Which would require the use of the μm measurement? One kilometer is 1000 meters. For reference, a football field is 100 meters long. Are any of these organisms bigger than a football field?",
+        "finalFeedback": "A meter is the best unit to use here. It is unlikely that the tree or the mushroom or the lizard is 1000 meters long (a km) and none of these organisms is small enough for the use of μm to be appropriate.",
+        "correctAttempts": 2,
+        "questionData": {
+          "question": [],
+          "questionOptions": [
+            "μm (micrometer)",
+            "km (kilometer)",
+            "m (meter)"
+          ],
+          "questionAnswers": [
+            "m (meter)"
+          ]
+        }
+      }
+    },
+    {
+      "nextQuestionSet": "",
+      "showValidateButtons": false,
+      "templateHeading": [
+        "Summarizing Your Practice Session"
+      ],
+      "sampleTemplate": "sampleData",
+      "templateType": "SampleScreen",
+      "mainFrame": {
+        "text": "",
+        "listingData": [
+          "The study of biology involves very large lengths and timescales. Biologists study objects that range from the tiny, such as chromosomes, to the huge, such as planet Earth.",
+          "Scientific notation allows scientists to express very small and very large numbers without including long strings of zeros. For instance, tightly wound DNA is about 0.00000014 m in diameter, whereas the Earth is 10,000,000 m in diameter. In scientific notation, these numbers are 1.4 &times; 10<sup>-8</sup> m and 10<sup>7</sup> m."
+        ]
+      }
+    }
+  ],
+  "imagePreLoad": [
+    "Bule_label.svg",
+    "Green_label.svg",
+    "Slide_4.svg",
+    "Slide_6.svg",
+    "Slide_7.svg",
+    "Slide_8.svg",
+    "Slide_8_B.svg",
+    "Slide_9.svg",
+    "Slide_10.svg",
+    "Slide_11.svg",
+    "Slide_12_B.svg",
+    "Slide_13.svg",
+    "Slide_14.svg",
+    "Slide_15.svg",
+    "Slide_16.svg",
+    "Slide_17.svg",
+    "Slide_18.svg",
+    "Slide_19.svg",
+    "Slide_20.svg",
+    "Slide_21.svg",
+    "Slide_22.svg",
+    "Slide_23.svg",
+    "Slide_24_A.svg",
+    "Slide_24_B.svg",
+    "Slide_25_A.svg",
+    "Slide_25_B.svg",
+    "Slide_27.svg",
+    "Slide_28.svg",
+    "Slide_29.svg",
+    "Slide_30.svg",
+    "Slide_31.svg"
+  ]
+}

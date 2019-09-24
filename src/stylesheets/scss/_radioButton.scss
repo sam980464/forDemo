@@ -1,0 +1,64 @@
+@import "mixins";
+@import "variables";
+
+
+label.radio {
+    display: block;
+    padding: 0;
+    margin: 0;
+    margin-bottom:$m-10p-10;
+    position: relative;
+    span {
+        display: inline-block;
+        margin-left: 6px;
+        width: calc(100% - 25px);
+        span.innerSpan {
+            margin-left: 0;
+        }
+    }
+
+    span.radioSelector {
+        display:inline-block;
+        margin-left: 0;
+        width: 16px;
+        height: 16px;
+        border: 1px solid $gray-light;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        border-radius: 50%;
+        vertical-align: top;
+        margin-top: 3px;
+    }
+    input[type=radio]:focus + span{
+        border: 1px solid #10637a;        
+        box-shadow: 0 0 6px #00758e;
+    }
+
+    input {
+        position:absolute;
+        top:0;
+        z-index: -1;
+    }
+    input:checked + span {
+        background-color: $blue-teal;
+        background-image: url('../../assets/images/dot.svg');
+        background-position: center center;
+        background-size: 48% 48%;
+        background-repeat: no-repeat;
+    }
+    // input:focus + span {
+    //     outline: none;
+    //     box-shadow: 0 0 6px rgba(0, 117, 142, 1);
+    //     border: 1px solid $blue-teal;
+    // }
+
+    .editClass, input:checked + span.editClass {
+        background: $green-dark;
+        background-image: url('../../assets/images/dot.svg');
+        background-position: center center;
+        background-size: 48% 48%;
+        background-repeat: no-repeat;
+    }
+}
+  
+  

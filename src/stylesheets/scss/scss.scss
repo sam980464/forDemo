@@ -1,0 +1,32 @@
+.savi-hlw-primers{
+@import "variables";
+@import "mixins";
+// Core CSS
+@import "grid";
+@import "buttons";
+@import "theme";
+@import "modal";
+@import "pagination";
+@import "normalize";
+@import "checkbox";
+@import "radioButton";
+@import "dropDown";
+
+}
+@import "modal";
+.savi-hlw-primer-engine {
+    &.small {
+      img#Left_image {
+      }
+    }
+    &.medium {
+      img#Left_image {
+        width: 80%;
+      }
+    }
+    &.large {
+      img#Left_image {
+        width: 60%;
+      }
+    }
+  }

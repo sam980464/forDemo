@@ -1,0 +1,124 @@
+@import "mixins";
+@import "variables";
+.button-primary {
+  @include button-variant($button-primary-color, $button-primary-bg, $button-primary-border);
+}
+.button-light {
+  @include button-variant($button-light-color, $button-light-bg, $button-light-border);
+}
+.button-default {
+  @include button-variant($button-default-color, $button-default-bg, $button-default-border);
+}
+.position{
+  &-absolute{
+      position: absolute;
+  }
+
+  &-relative{
+      position: relative;
+  }
+
+  &-fixed{
+      position: fixed;
+  }
+}
+
+#next{
+  cursor: pointer;
+}
+#prev{
+  cursor: pointer;
+}
+
+.button {
+  display: inline-block;
+  padding: $button-padding $m-10p-10;
+  text-decoration: none;
+  outline: none !important;
+  border-radius: 3px;
+  height: 34px;
+  line-height: $value1;
+  font-size:$button-base-size;
+  opacity: 1;
+    &:hover {
+      opacity: 0.8;	
+    }
+		&:disabled:hover{
+			opacity: 1;	
+			cursor: default;
+		}
+	  &:focus {
+      outline: none;
+    }
+    &:disabled {
+      color: $footer-bg;
+      background: transparent;
+      border: 1px solid $footer-bg;
+      
+
+      &:hover {
+        color: $footer-bg;
+        background: transparent;
+        border: 1px solid $footer-bg;
+      }
+    }
+
+
+  &.button-primary {
+    
+    &:hover {
+      opacity: 0.8;
+    }
+    &:focus {
+      outline: none;
+		  box-shadow: 	0 0 6px rgba(0,117,142,1);
+    }
+    &:disabled { 
+      &:hover {
+        opacity: 1;	
+			  cursor: default;
+      }
+    }
+  }
+
+  &.button-secondary {
+    color: $blue-teal;
+		background: transparent;	
+    border: 1px solid $blue-teal;
+
+    &:hover {
+      opacity: 1;
+			background: rgba(0,117,142,0.1);
+    }
+    &:focus {
+      outline: none;
+		  box-shadow: 	0 0 6px rgba(0,117,142,1);
+    }
+    &:disabled { 
+      color: $footer-bg;
+			background: transparent;	
+			border: 1px solid $footer-bg;
+    }
+
+    &.red {
+      border-color: $red;
+      color: $red; 
+      
+      &:hover{
+        opacity: 1;
+			  background: rgba(218,27,44,0.1);
+      }
+    }
+  }
+
+  &.button-danger {
+    border: 1px solid $red;
+    color: $red;
+    background-color: $white;
+
+    &:hover {
+      background-color: $red;
+      color: $white;
+    }
+  }
+}

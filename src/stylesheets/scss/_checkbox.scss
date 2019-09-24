@@ -1,0 +1,79 @@
+@import "mixins";
+@import "variables";
+
+label.checkbox {
+    display: block;
+    padding: 0;
+    margin: 0;
+    margin-bottom:$m-10p-10;
+    position: relative;
+    // overflow: auto;
+
+    span {
+        display: inline-block;
+        margin-left: 6px;
+        width: calc(100% - 25px);
+        vertical-align: top;
+        span.innerSpan {
+            margin-left: 0;
+        }
+    }
+
+    span.checkboxSelector {
+        display:inline-block;
+        margin-left: 0;
+        width: 16px;
+        height: 16px;
+        border: 1px solid $gray-light;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+        vertical-align: top;
+        margin-top: 3px;
+    }
+    input[type=checkbox]:focus + span{
+        border: 1px solid #10637a;        
+        box-shadow: 0 0 6px #00758e;
+    }
+    input {
+        position:absolute;
+        top:0;
+        z-index: -1;
+    }
+    input:checked + span {
+        background-color: $blue-teal;
+        background-image: url('../../assets/images/right-tick.svg');
+        background-position: center center;
+        background-size: 75% 75%;
+        background-repeat: no-repeat;
+    }
+
+    // input:focus + span {
+    //     outline: none;
+    //     box-shadow: 0 0 6px rgba(0, 117, 142, 1);
+    //     border: 1px solid $blue-teal;
+    // }
+
+    .editClass {
+        background: $green-dark;
+        background-image: url('../../assets/images/right-tick.svg');
+        background-position: center center;
+        background-size: 75% 75%;
+        background-repeat: no-repeat;
+    }
+  }
+
+
+@media (max-width: 767px){
+    label.checkbox {
+        margin-bottom: 7px;
+        span {
+            width: calc(100% - 25px);
+            vertical-align: top;
+        }
+        input[type=checkbox] {
+            vertical-align: top;
+            margin-top: 4px;
+        }
+    }
+}
