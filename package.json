@@ -32,7 +32,7 @@
     "sass-loader": "^6.0.2",
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
-    "webpack-dev-server": "2.6.1"
+    "webpack-dev-server": "5.2.6"
   },
   "scripts": {
     "start": "./node_modules/.bin/webpack-dev-server --content-base dist --config webpack.devserver.config.js --open",
